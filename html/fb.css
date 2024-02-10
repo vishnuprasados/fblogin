@@ -1,0 +1,319 @@
+.div1{
+
+    width: 100%;
+    height: 80px;
+    background-color: #3b5998;
+    position: fixed;
+    overflow: hidden;
+    top: 0px;
+    position: sticky;
+    margin: 0;
+    padding: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+
+
+}
+
+
+body{
+
+
+width: 100%;
+height: 500px;
+
+
+}
+
+
+.fpsd{
+
+ color: white;
+ 
+ 
+}
+
+::placeholder{
+
+}
+
+.ch2{
+
+color:white;
+
+ 
+}
+
+.email{
+
+    margin-left: 40px;
+    margin-left: 1062px;
+    margin-top: 36px;
+    position: fixed;
+    border: solid red;
+    height: 20px;
+}
+
+
+.psd{
+
+
+    height: 20px;
+    margin-left: 1236px;
+    margin-top: 36px;
+    margin-bottom: 21px;
+    position: fixed;
+    border: solid red;
+   
+}
+
+.head{
+
+    color: white;
+    font-size: 57px;
+    margin-left: 71px;
+    margin-top: 4px;
+    position: fixed;
+}
+
+
+.btn{
+
+    height: 20px;
+    margin-top: 36px;
+    align-items: end;
+    margin-left: 1425px;
+    background-color: royalblue;
+}
+
+
+
+.btn:hover{
+
+
+    background-color: red;
+}
+.label1{
+
+    margin-left: 1250px;
+    margin-bottom: 30px;
+    margin-top: -40px;
+}
+
+.ch{
+    margin-left:  1100px;
+    margin-bottom: 40px;
+    margin-top: -50px;
+}
+
+
+.left-section{
+
+    width: 50%;
+    float: left;
+}
+
+.img1{
+
+    height: 374px;
+    margin-left: 66px;
+    width: 102%;
+    background: linear-gradient(#d3dbe8e0,#D3DBE8);
+}
+
+
+.main-body{
+
+    background: linear-gradient(white,#e3e7ef);
+    width: 100%;
+    height: 605px;
+    padding: 0%;
+}
+
+
+.fb{
+
+    margin-top: 24px;
+    margin-left: 38px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+    font-weight: bolder;
+}
+
+
+.right-section{
+
+
+    width: 50%;
+    float: left;
+
+
+}
+.sign-up{
+
+    margin-top: 22px;
+    margin-left: 165px;
+    font-weight: bolder;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+   
+}
+
+.title{
+
+    margin-top: -24px;
+    margin-left: 165px;
+    font-size: 32px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+    font-weight: lighter;
+}
+
+.fnm{
+
+    font-size: 24px;
+    margin-left: 262px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+}
+
+
+.fnm1{
+
+    height: 30px;
+    width: 258px;
+}
+
+.lnm{
+
+    font-size: 24px;
+    margin-left: 262px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+
+}
+
+.lnm1{
+
+    height: 30px;
+    width: 258px;  
+}
+
+.gdr{
+
+    height: 30px;
+    width: 97px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+}
+
+.emi{
+
+    font-size: 24px;
+    margin-left: 263px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+}
+
+.emi1{
+
+  
+    height: 30px;
+    width: 258px;    
+}
+
+
+.psdd{
+
+    font-size: 24px;
+    margin-left: 217px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+}
+
+.psd1{
+
+  
+    height: 30px;
+    width: 258px;    
+}
+
+
+.gndr{
+
+    font-size: 24px;
+    margin-left: 330px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+}
+
+.gdr{
+
+  
+    height: 35px;
+    width: 125px;    
+}
+
+
+.dob{
+    
+    font-size: 24px;
+    margin-left: 278px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+}
+
+
+.dob1{
+
+    height: 30px;
+    width: 70px;
+
+}
+
+.des{
+
+    margin-left: 384px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+
+}
+
+.sign-btn{
+
+    
+    height: 35px;
+    width: 125px; 
+    margin-left:384px;
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+}
+
+.sign-btn:hover{
+
+    background-color: #3b5998;
+}
+
+
+.line{
+
+    width: 70%;
+    margin-top: 10px;
+    height: 1px;
+    background-color:grey ;
+    margin-left: 150px;
+}
+
+
+span{
+
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color:#21438b;
+    margin-left: 1000px;
+    font-weight: bolder;
+   
+}
+
+

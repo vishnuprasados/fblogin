@@ -1,0 +1,40 @@
+h1{
+
+    color: aqua;
+}
+
+#a1{
+
+    color: black;
+}
+
+.c1{
+
+    color: blue;
+    text-align: end;
+}
+
+.c3{
+
+    background-color:orange;
+    text-align: center;
+}
+
+.c4{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+div{
+
+    background-color: white;
+}
+
+.d1{
+    background-color: green;
+}
+
+body{
+
+    background-color: yellowgreen;
+}

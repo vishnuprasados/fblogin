@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Noto+Sans+TC:wght@600&family=Work+Sans:ital,wght@1,900&display=swap');
+div{
+
+    background-color: black;
+    color: green;
+    width: 40%;
+    padding: 50px;
+    border: rgb(255, 119, 0) solid;
+    border-radius: 1%;
+    transition: width 5s ,height 5s ,transform 5s;
+    
+    
+}
+
+div:hover{
+
+
+    width: 60%;
+    height: 200px;
+    transform: rotate(180deg);
+}
+
+
+p{
+
+
+    font-size: xx-large;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    font-style: italic;
+    
+}
+
+
+span{
+
+    color:red;
+}
+
+img{
+
+    width: 20%;
+    height: 200px;
+}
+
+img:hover{
+
+    opacity: 0.3;
+    border: black solid;
+}
+
+
+.img1{
+
+
+    transition: width 5s , height 5s;
+
+}
+
+img:hover{
+
+    width: 200px;
+    height: 200px;
+    transform: rotate(180deg);
+}

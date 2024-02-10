@@ -1,0 +1,119 @@
+.log{
+    margin: 20px;
+    margin-top: 200px;
+    margin-bottom: 700px;
+    color:black;
+    border: 10%;
+    border-color: #000000;
+    box-sizing: 20%;
+    border:solid ;
+    border-radius: 10%;
+    background-color:greenyellow;
+    height: 350px;
+    width: 20%;
+    box-shadow:50%;
+    text-align: center;
+    
+    
+
+
+}
+
+
+.title{
+
+
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color:rgb(23, 0, 128);
+}
+
+
+.btn{
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(205, 50, 122);
+    border-radius: 10px;
+    width: 30%;
+    height: 90%;
+    font-size: 20px;
+    
+}
+
+.git{
+
+    width: 100px;
+    color:red;
+    size: 30px;
+   
+}
+
+.usr{
+
+
+    border: solid;
+    width: 70%;
+    height: 40px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color:black;
+    background-color: blue;
+    border-color:black ;
+    border-radius: 20px;
+    
+
+}
+
+.psd{
+
+    border: solid;
+    border-color: black;
+    background-color: blue;
+    width: 70%;
+    height: 40px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border-radius: 20px;
+
+
+}
+
+
+.psd1:hover{
+
+    background-color: white;
+}    
+
+
+.insta{
+
+
+    color: blueviolet;
+}
+
+.usr:hover{
+
+    background-color: white;
+}
+
+
+
+.btn1 {
+    transition-duration: 0.4s;
+  }
+  
+.btn1:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+  }
+
+
+
+body{
+
+    background-color: bisque;
+}

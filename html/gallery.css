@@ -1,0 +1,29 @@
+div{
+
+    background-color: rgb(205, 50, 135);
+    color: black;
+    border: black solid;
+    height: 400px;
+    width: 24%;
+    float: left;
+}
+
+h2{
+    text-align: center;
+}
+
+body{
+
+    background-color: rgb(104, 226, 43);
+}
+
+img{
+
+
+    margin-left: 22px;
+    height: 274px;
+    width: 85%;
+    border-radius: 5px;
+    
+
+}
